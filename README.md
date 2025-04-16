@@ -64,3 +64,21 @@ Se a bateria não possui terminais de teste, será necessário adaptar o circuit
 
 16. Existe risco de interferência eletromagnética no local (proximidade com transmissores, antenas, etc.)?
 A proximidade com fontes de interferência eletromagnética pode afetar a precisão das medições e a comunicação do sensor. Nesses casos, é recomendável
+
+
+{
+https://www.usinainfo.com.br/sensor-de-temperatura/sensor-de-umidade-e-temperatura-rs485-sht40-encapsulamento-ip65-9073.html?utm_source=chatgpt.com
+
+https://www.sensor-technology.com.br/post/montagem-e-encapsulamento-dos-sensores-de-temperatura?utm_source=chatgpt.com
+
+https://pt.wikipedia.org/wiki/ESP32?utm_source=chatgpt.com
+
+https://www.sensor-technology.com.br/post/montagem-e-encapsulamento-dos-sensores-de-temperatura
+
+https://www.usinainfo.com.br/sensor-de-temperatura/sensor-de-umidade-e-temperatura-rs485-sht40-encapsulamento-ip65-9073.html
+
+https://www.usinainfo.com.br/sensor-de-temperatura/sensor-de-umidade-e-temperatura-rs485-sht40-encapsulamento-ip65-9073.html
+
+https://startbit.com.br/md/comparacao-entre-esp32-e-outros-microcontroladores-qual-escolher-L2G1A4
+
+https://startbit.com.br/pt/article/comparacao-entre-esp32-e-outros-microcontroladores-qual-escolher-L2G1A4
